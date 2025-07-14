@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+body {
+  @apply bg-black text-white;
+}
+#tasklist::-webkit-scrollbar{
+  display: none;
+}
+
+#alltask::-webkit-scrollbar{
+  display: none;
+}
+body {
+  font-family: 'Poppins', sans-serif;
+}
